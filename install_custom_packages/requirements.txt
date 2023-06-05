@@ -1,0 +1,2 @@
+image-compress @ file:///C:/Users/pinso/Documents/github/website/projects/django/packages/image_compress
+Pillow==9.5.0
